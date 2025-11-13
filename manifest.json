@@ -1,0 +1,16 @@
+{
+  "name": "Mini Celeste",
+  "short_name": "Celeste",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#1d1f21",
+  "theme_color": "#1d1f21",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
